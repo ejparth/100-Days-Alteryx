@@ -7,7 +7,7 @@
 - Started with Macros and videos: will be solving challenges after understanding the concepts.
 - Building first macros [LINK](https://community.alteryx.com/t5/Videos/Introduction-to-Building-Macros/m-p/139730)
 
-**REference /Resources**
+**Reference /Resources**
 - [Link](https://community.alteryx.com/t5/Videos/Introduction-to-Building-Macros/m-p/139730)
 
 **Thoughts**
@@ -22,8 +22,8 @@
 
 **References**
 
-[Iterative Macros link](https://community.alteryx.com/t5/Videos/Santa-s-First-Iterative-Macro/m-p/92237)
-[Google sheet](https://docs.google.com/spreadsheets/d/1StxFprGa5OAEPA_AqQ6p2bWKKWeoNGDHRO-RiznMVVk/edit?usp=sharing)
+- [Iterative Macros link](https://community.alteryx.com/t5/Videos/Santa-s-First-Iterative-Macro/m-p/92237)
+- [Google sheet](https://docs.google.com/spreadsheets/d/1StxFprGa5OAEPA_AqQ6p2bWKKWeoNGDHRO-RiznMVVk/edit?usp=sharing)
 
 **Thoughts**
 - Iterative Macros are little tricky, needs more time!
