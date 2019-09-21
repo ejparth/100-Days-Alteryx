@@ -4,12 +4,26 @@
 - I intially have some experience in Alteryx basic tools. This 100 days, i will try to expand the horizon and skills on ALteryx.
 
 **Today's Progress :**
-- Started with Macros and videos
+- Started with Macros and videos: will be solving challenges after understanding the concepts.
+- Building first macros [LINK](https://community.alteryx.com/t5/Videos/Introduction-to-Building-Macros/m-p/139730)
 
 **REference /Resources**
+- [Link](https://community.alteryx.com/t5/Videos/Introduction-to-Building-Macros/m-p/139730)
+
+**Thoughts**
+-  Macros make the whole process easir. Something which has to be used again and again can be converted to a MAcros
 
 ##
-## DAY 0 : 20th sept 2019
+## DAY 1 : 21st sept 2019
 
 **Today's Progress :**
-- Started with Macros and videos 
+- Tried to understand Iterative Macros and apply it.
+- created a sheet categorizing all topics and Challenges
+
+**References**
+
+[Iterative Macros link](https://community.alteryx.com/t5/Videos/Santa-s-First-Iterative-Macro/m-p/92237)
+[Google sheet](https://docs.google.com/spreadsheets/d/1StxFprGa5OAEPA_AqQ6p2bWKKWeoNGDHRO-RiznMVVk/edit?usp=sharing)
+
+**Thoughts**
+- Iterative Macros are little tricky, needs more time!
