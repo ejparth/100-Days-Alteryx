@@ -27,3 +27,18 @@
 
 **Thoughts**
 - Iterative Macros are little tricky, needs more time!
+
+
+##
+## DAY 2 : 24st sept 2019
+
+**Today's Progress :**
+- Completed the challenge "Build a Factorial Calculator"
+- watch Advanced certifcation video
+
+**References**
+- [Fact. Calculator](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-74-Build-a-Factorial-Calculator/td-p/65932)
+- [Adv. Cert. Video](https://community.alteryx.com/t5/Videos/Advanced-Certification-Prep-Part-II/td-p/351833)
+
+**thoughts**
+- soon will be uploading a Blogpost on **Approaching guide to Macros** 
