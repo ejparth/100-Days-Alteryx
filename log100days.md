@@ -42,3 +42,11 @@
 
 **thoughts**
 - soon will be uploading a Blogpost on **Approaching guide to Macros** 
+
+##
+## DAY 3 : 25th sept 2019
+
+**Today's Progress :**
+- i learnt about Batch MAcros
+- uplaoading , saving , using macros 
+- complete a challenge on macros
