@@ -50,3 +50,12 @@
 - i learnt about Batch MAcros
 - uplaoading , saving , using macros 
 - complete a challenge on macros
+
+##
+## DAY 4 : 26th sept 2019
+
+**Today's Progress :**
+- Build simple rupee converter macros
+- meta info, icon , abbreviation etc
+- batch , iterative macros
+
