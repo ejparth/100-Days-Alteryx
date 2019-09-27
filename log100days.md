@@ -59,3 +59,9 @@
 - meta info, icon , abbreviation etc
 - batch , iterative macros
 
+##
+## DAY 5 : 27th sept 2019
+
+**Today's Progress :**
+- Watch video on Alteryx certification preperation
+-
